@@ -1,0 +1,4 @@
+types=721
+persec=2.3
+miss=31
+memo='雨のせいで足が冷たい。'
