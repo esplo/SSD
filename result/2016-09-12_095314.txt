@@ -1,0 +1,4 @@
+types=196
+persec=5.2
+miss=1
+memo='月曜日はこんなもの'
