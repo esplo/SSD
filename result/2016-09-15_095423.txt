@@ -1,0 +1,4 @@
+types=179
+persec=5.5
+miss=1
+memo='縦連打しすぎた。'
