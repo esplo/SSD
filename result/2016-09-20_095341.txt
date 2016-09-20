@@ -1,0 +1,4 @@
+types=178
+persec=5.3
+miss=1
+memo='晩ご飯を食べないとこうなる'
