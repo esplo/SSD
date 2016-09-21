@@ -1,0 +1,4 @@
+types=213
+persec=4.9
+miss=1
+memo='不調'
