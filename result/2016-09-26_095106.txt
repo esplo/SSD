@@ -1,0 +1,4 @@
+types=124
+persec=5.6
+miss=1
+memo='ブとプを認識する術がない'
