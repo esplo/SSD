@@ -1,0 +1,4 @@
+types=95
+persec=5.2
+miss=1
+memo='寝すぎても良くないらしい'
