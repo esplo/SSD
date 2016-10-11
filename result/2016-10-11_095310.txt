@@ -1,0 +1,4 @@
+types=230
+persec=5.7
+miss=1
+memo='めも'
