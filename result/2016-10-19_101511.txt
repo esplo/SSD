@@ -1,0 +1,4 @@
+types=235
+persec=6.0
+miss=1
+memo='久々に。'
