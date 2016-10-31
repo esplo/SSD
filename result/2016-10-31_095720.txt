@@ -1,0 +1,4 @@
+types=130
+persec=5.4
+miss=1
+memo='なぜか隣のキーを叩いてしまう'
