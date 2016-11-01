@@ -1,0 +1,4 @@
+types=200
+persec=5.3
+miss=1
+memo='指が寒い'
