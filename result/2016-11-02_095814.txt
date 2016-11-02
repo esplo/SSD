@@ -1,0 +1,4 @@
+types=198
+persec=5.3
+miss=1
+memo='うーむ'
